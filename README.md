@@ -14,6 +14,6 @@
 ![Image alt](https://github.com/Kevinolee1/Creating-a-honeypot-with-Microsoft-Azure/blob/958d386fa32a1f6c0001160fa8b0834c0b8a9628/Honeypot/Screenshot%202026-07-09%20023128.png)
 ![Image alt](https://github.com/Kevinolee1/Creating-a-honeypot-with-Microsoft-Azure/blob/ea49757768f4f42b1efa6aab3221711e63d09372/Honeypot/Screenshot%202026-07-09%20023153.png)
 ![Image alt](https://github.com/Kevinolee1/Creating-a-honeypot-with-Microsoft-Azure/blob/e00c1c1ed3df5c6c35965735ab206c27bf54d56c/Honeypot/Screenshot%202026-07-09%20023302.png)
-![Image alt]()
+![Image alt](https://github.com/Kevinolee1/Creating-a-honeypot-with-Microsoft-Azure/blob/24d4b29bb38d2fd1010f2d18217c9f53852894c6/Honeypot/Screenshot%202026-07-09%20023406.png)
 ![Image alt]()
 ![Image alt]()
